@@ -19,4 +19,5 @@ Classes named Sprite_Xxx related to image display and processing.
 ## rpg_windows.js
 Classes named Window_Xxx handling window display and input.
 
+## Extra
 In addition, a plugin list is defined in plugins.js, and main.js launches the game.
