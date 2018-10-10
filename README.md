@@ -1,6 +1,10 @@
 # RPG Maker MV Game Player
 This is the game engine for RPG Maker MV. By default, the core scripts are merged and creates a long js file. This repository exists for plugin developers to have an easy time to reference the code and find the changes of the engine. This repository will be updated when the engine does. If you want to work with the core scripts, refer to [Core script Collaboration.](https://github.com/rpgtkoolmv/corescript)
 
+## Documentation
+Script Call List by Archeia: https://docs.google.com/spreadsheets/d/1-Oa0cRGpjC8L5JO8vdMwOaYMKO75dtfKDOetnvh7OHs/edit#gid=0
+Library Documentation by Kino: https://kinoar.github.io/rmmv-doc-web/index.html
+
 ## How to build
 
 To build Corescripts, install Node.js, change working directory, and just type in console:
